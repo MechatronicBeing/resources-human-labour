@@ -1,2 +1,2 @@
-# resources-human-activities
-Free "public domain" resources about human activities.
+# resources-human-labour
+Free "public domain" resources about human labour.
