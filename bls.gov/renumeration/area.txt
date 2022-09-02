@@ -1,0 +1,32 @@
+Type de métier                          | % renumeration
+--------------------------------------------------------
+Restauration                            | 61
+Personal Care and Service               | 67
+Farming, Fishing, and Forestry          | 71
+Building and Grounds Cleaning           | 71
+Healthcare (aide, assitants)            | 72
+Ventes                                  | 75
+Transportation and Material Moving      | 81
+Production                              | 89
+Office and Administrative Support       | 92
+Protective Service                      | 104
+Entertainment and Sports                | 112
+Services sociaux                        | 113
+Construction et Extraction              | 116
+Installation, Maintenance, Réparation   | 116
+Arts et Design                          | 118
+Média et Communication                  | 121
+Éducation et Librairie                  | 125
+Média and Communication                 | 146
+Sciences (Biologie, Physique, Sociales) | 166
+Healthcare (pratiquant)                 | 167
+Finances                                | 172
+Architecture Et Ingénierie              | 198
+Justice                                 | 203
+Ordinateurs et Informations             | 218
+Management                              | 262
+
+---
+Author : Bureau of Labor Statistics, U.S. Department of Labor
+Based on the "Occupational Outlook Handbook"
+Site : https://www.bls.gov/ooh/

@@ -1,0 +1,17 @@
+Percent of jobs, according to the remuneration based on the average salary
+
+Remuneration based on the average salary    | % of jobs
+-------------------------------------------------------
+between  50 and 100%                        |   21.6%
+between 100 and 200%                        |   34.2%
+between 150 and 200%                        |   19.7%
+between 200 and 250%                        |   13.2%
+between 250 and 300%                        |   16.3%
+between 300 and 350%                        |    3.8%
+between 350 and 400%                        |    0.9%
+between 450 and 500%                        |    0.3%
+
+---
+Author : Bureau of Labor Statistics, U.S. Department of Labor
+From the "Occupational Outlook Handbook"
+Site : https://www.bls.gov/ooh/

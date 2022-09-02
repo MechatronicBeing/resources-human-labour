@@ -1,0 +1,16 @@
+Percent of unemployed persons and duration of unemployment (weeks), by age, in United States, 2019
+
+Unemployed         | Percent | Average duration of unemployment
+---------------------------------------------------------------
+16-19 years        | 12%     | 12
+20-24 years        | 17%     | 18
+25-34 years        | 23%     | 22
+35-44 years        | 15%     | 23
+45-54 years        | 15%     | 26
+55-64 years        | 12%     | 27
+65 years and older | 5%      | 27
+
+---
+Authors : Bureau of Labor Statistics, U.S. Department of Labor (2019)
+Title : "Unemployed persons by age, sex, race, Hispanic or Latino ethnicity, marital status, and duration of unemployment"
+File : https://www.bls.gov/cps/aa2019/cpsaat31.htm
